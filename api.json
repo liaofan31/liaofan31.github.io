@@ -1,15 +1,15 @@
 {
   "version": "1.0.0",
-  "updated_at": "2026-01-29T14:59:45+0800",
+  "updated_at": "2026-01-29T15:02:15+0800",
   "recommended": "A",
   "channels": {
     "A": {
-      "base_url": "https://twenty-mice-clap.loca.lt",
-      "status": "active"
+      "base_url": "https://swift-hornets-behave.loca.lt",
+      "status": "down"
     },
     "B": {
-      "base_url": "https://empty-garlics-boil.loca.lt",
-      "status": "active"
+      "base_url": "https://fluffy-maps-marry.loca.lt",
+      "status": "down"
     }
   }
 }
