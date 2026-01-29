@@ -1,15 +1,15 @@
 {
   "version": "1.0.0",
-  "updated_at": "2026-01-29T15:07:12+0800",
+  "updated_at": "2026-01-29T15:08:17+0800",
   "recommended": "A",
   "channels": {
     "A": {
-      "base_url": "https://tired-taxes-shout.loca.lt",
-      "status": "active"
+      "base_url": "https://red-poets-dig.loca.lt",
+      "status": "down"
     },
     "B": {
       "base_url": "https://polite-grapes-greet.loca.lt",
-      "status": "active"
+      "status": "down"
     }
   }
 }
