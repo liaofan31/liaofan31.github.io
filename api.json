@@ -1,15 +1,15 @@
 {
   "version": "1.0.0",
-  "updated_at": "2026-01-29T14:38:13+0800",
+  "updated_at": "2026-01-29T14:38:34+0800",
   "recommended": "A",
   "channels": {
     "A": {
       "base_url": "https://honest-papers-attend.loca.lt",
-      "status": "active"
+      "status": "down"
     },
     "B": {
       "base_url": "https://tough-rabbits-refuse.loca.lt",
-      "status": "active"
+      "status": "down"
     }
   }
 }
