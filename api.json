@@ -1,14 +1,14 @@
 {
   "version": "1.0.0",
-  "updated_at": "2026-01-29T14:45:26+0800",
-  "recommended": "A",
+  "updated_at": "2026-01-29T14:46:41+0800",
+  "recommended": "B",
   "channels": {
     "A": {
-      "base_url": "https://puny-pans-deny.loca.lt",
-      "status": "active"
+      "base_url": "https://ripe-cobras-leave.loca.lt",
+      "status": "down"
     },
     "B": {
-      "base_url": "https://fifty-ties-take.loca.lt",
+      "base_url": "https://empty-garlics-boil.loca.lt",
       "status": "active"
     }
   }
