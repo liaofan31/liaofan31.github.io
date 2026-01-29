@@ -1,11 +1,11 @@
 {
   "version": "1.0.0",
-  "updated_at": "2026-01-29T14:13:44+0800",
+  "updated_at": "2026-01-29T14:14:30+0800",
   "recommended": "A",
   "channels": {
     "A": {
       "base_url": "https://upset-points-grow.loca.lt",
-      "status": "down"
+      "status": "active"
     },
     "B": {
       "base_url": "https://solid-rabbits-retire.loca.lt",
