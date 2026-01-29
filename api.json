@@ -1,10 +1,10 @@
 {
   "version": "1.0.0",
-  "updated_at": "2026-01-29T15:08:17+0800",
+  "updated_at": "2026-01-29T15:09:36+0800",
   "recommended": "A",
   "channels": {
     "A": {
-      "base_url": "https://red-poets-dig.loca.lt",
+      "base_url": "https://tired-mails-visit.loca.lt",
       "status": "down"
     },
     "B": {
