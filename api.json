@@ -1,15 +1,15 @@
 {
   "version": "1.0.0",
-  "updated_at": "2026-01-29T14:38:34+0800",
+  "updated_at": "2026-01-29T14:39:42+0800",
   "recommended": "A",
   "channels": {
     "A": {
-      "base_url": "https://honest-papers-attend.loca.lt",
-      "status": "down"
+      "base_url": "https://puny-pans-deny.loca.lt",
+      "status": "active"
     },
     "B": {
-      "base_url": "https://tough-rabbits-refuse.loca.lt",
-      "status": "down"
+      "base_url": "https://fifty-ties-take.loca.lt",
+      "status": "active"
     }
   }
 }
