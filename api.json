@@ -1,15 +1,15 @@
 {
   "version": "1.0.0",
-  "updated_at": "2026-01-29T15:02:15+0800",
+  "updated_at": "2026-01-29T15:03:17+0800",
   "recommended": "A",
   "channels": {
     "A": {
-      "base_url": "https://swift-hornets-behave.loca.lt",
-      "status": "down"
+      "base_url": "https://tired-taxes-shout.loca.lt",
+      "status": "active"
     },
     "B": {
-      "base_url": "https://fluffy-maps-marry.loca.lt",
-      "status": "down"
+      "base_url": "https://polite-grapes-greet.loca.lt",
+      "status": "active"
     }
   }
 }
